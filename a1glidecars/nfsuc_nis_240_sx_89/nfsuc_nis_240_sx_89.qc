@@ -17,6 +17,7 @@ $bodygroup "Rear Bumper"
 {
 	studio "rebumper.smd"
 	studio "rebumper_1.smd"
+	studio "rebumper_2.smd"
 	blank
 }
 $bodygroup "Hood"
@@ -66,6 +67,11 @@ $bodygroup "Mirror Right"
 	studio "mirrorright.smd"
 	blank
 }
+$bodygroup "Exhaust"
+{
+	studio "exhaust.smd"
+	blank
+}
 $bodygroup "Headlight"
 {
 	studio "headlight.smd"
@@ -87,6 +93,10 @@ $bodygroup "chassis"
 $bodygroup "Windows"
 {
 	studio "windows.smd"
+}
+$bodygroup "Muffler"
+{
+	studio "muffler.smd"
 }
 
 $surfaceprop "metal"

@@ -6,9 +6,56 @@ $bodygroup "base"
 {
 	studio "base.smd"
 }
+$bodygroup "Front bumper"
+{
+	studio "frbumper.smd"
+	studio "frbumper_1.smd"
+}
+$bodygroup "Rear bumper"
+{
+	studio "rebumper.smd"
+	studio "rebumper_1.smd"
+}
+$bodygroup "Door left"
+{
+	studio "doorleft.smd"
+	studio "doorleft_1.smd"
+}
+$bodygroup "Door right"
+{
+	studio "doorright.smd"
+	studio "doorright_1.smd"
+}
+$bodygroup "Mirror left"
+{
+	studio "mirrorleft.smd"
+	blank
+}
+$bodygroup "Mirror right"
+{
+	studio "mirrorright.smd"
+	blank
+}
+$bodygroup "Skirt left"
+{
+	studio "skirtleft.smd"
+	studio "skirtleft_1.smd"
+}
+$bodygroup "Skirt right"
+{
+	studio "skirtright.smd"
+	studio "skirtright_1.smd"
+}
+$bodygroup "Exhaust"
+{
+	studio "exhaust.smd"
+	blank
+}
 $bodygroup "Trunk"
 {
 	studio "trunk.smd"
+	studio "trunk_1.smd"
+	studio "trunk_2.smd"
 	blank
 }
 $bodygroup "Brakelight"
@@ -26,6 +73,10 @@ $bodygroup "Litfull"
 	studio "litfull.smd"
 	studio "litfull_1.smd"
 }
+$bodygroup "Hood"
+{
+	studio "Hood.smd"
+}
 $bodygroup "Headlight"
 {
 	studio "Headlight.smd"
@@ -41,10 +92,6 @@ $bodygroup "body"
 $bodygroup "chassis"
 {
 	studio "chassis.smd"
-}
-$bodygroup "sidemirrors"
-{
-	studio "sidemirrors.smd"
 }
 
 

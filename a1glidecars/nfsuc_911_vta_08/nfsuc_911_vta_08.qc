@@ -99,12 +99,6 @@ $cdmaterials "models\nfsuc_911_vta_08\"
 $cdmaterials "models\nfsuc_por_911_gt2_08\"
 $CDMaterials "models\nfsuc\shared\"
 
-$texturegroup "skinfamilies"
-{
-	{ "skin_0" }
-	{ "skin_1" }
-}
-
 $cbox 0 0 0 0 0 0
 
 $bbox -100.438 -46.863 -0.409 99.943 46.863 49.554
